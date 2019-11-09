@@ -1,0 +1,29 @@
+
+
+
+.adac{
+  max-width: 100px;
+ 
+}
+
+.welcome-card {
+  margin-top: 10px;;
+  --background: url('/assets/img/fundo.jpg') 0 0/100% 100% no-repeat;
+  min-height: 35vh;
+  max-height: 35vh;
+  overflow: hidden;
+  color: aliceblue;
+  
+}
+
+.item {
+  background: transparent;  
+ }
+
+ .list {
+   margin-top: -90px;
+   position: absolute;
+   margin-left: 30px;
+ }
+
+ 
